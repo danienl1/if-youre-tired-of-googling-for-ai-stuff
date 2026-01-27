@@ -20,3 +20,5 @@ Output format:
   - <doc_section_what_to_update_add>
 - Open questions/assumptions:
   - <items>
+- In human terms tell me exactly what will happen from what changes, and what's affected
+- Answer: what's the worst that can go wrong
