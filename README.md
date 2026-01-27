@@ -1,0 +1,1 @@
+copy pasta to your .cursor/commands
